@@ -1,2 +1,2 @@
-jqery.slide
+jquery.slide
 ===========
